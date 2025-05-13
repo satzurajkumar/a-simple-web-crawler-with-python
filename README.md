@@ -24,3 +24,7 @@ Make sure you have Python 3 installed. Then install the required dependencies:
 
 ```bash
 pip install requests beautifulsoup4
+```
+
+## ⚠️ Disclaimer
+* This crawler and associated code are for educational purposes only. Always use crawlers responsibly and legally. Misuse can result in IP bans, legal action, or other consequences.
