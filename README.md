@@ -1,4 +1,4 @@
-# 🕷️ Simple Web Crawler (Python)
+# 🕷️ Simple Web Crawler (written in Python)
 
 This is a simple web crawler built with Python. It takes a starting URL and crawls web pages by following hyperlinks, collecting page titles and URLs. The project is intended for learning purposes and demonstrates how to fetch and parse HTML content using standard Python libraries.
 
